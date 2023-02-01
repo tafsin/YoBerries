@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234567670895",
+    "project_id": "yo-berries",
+    "storage_bucket": "yo-berries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234567670895:android:4a2b40bccd28b86e4a419a",
+        "android_client_info": {
+          "package_name": "com.example.yo_berry_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234567670895-krbg79s52ofek6jf1eog13r45973ht7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAooGmTW-K8NJIk-UCAF7YTV0NQ2HsNjJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234567670895-krbg79s52ofek6jf1eog13r45973ht7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
